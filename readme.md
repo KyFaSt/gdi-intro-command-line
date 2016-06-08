@@ -1,6 +1,6 @@
 # Introduction to Command Line
 
-Slides and materials are hosted at [http://jennifer-mann.github.io/gdi-intro-command-line](http://jennifer-mann.github.io/gdi-intro-command-line).
+Slides and materials are hosted at [kyfast.net/gdi-intro-command-line](kyfast.net/gdi-intro-command-line).
 
 This is a modification of Introduction to Command Line, developed by [Jared StilWell](http://slides.com/jaredstilwell) for the Girl Develop It Austin chapter. The course is meant to be taught in a two-hour course. Each of the slides and practice files are customizable according to the needs of a given class or audience.
 
